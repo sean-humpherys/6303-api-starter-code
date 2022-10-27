@@ -1,5 +1,5 @@
 #Professor's files to ignore
-*answer.py
+*answer*
 .vscode/*
 *answer/
 __pycache__/
